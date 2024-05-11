@@ -1,4 +1,4 @@
-# Possession-research
+# Possession-Research
 
 Desirable desire values in desire satisfaction theory
 
