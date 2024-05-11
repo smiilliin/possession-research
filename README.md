@@ -22,5 +22,7 @@ And open dev server address(Ex: http://localhost:8080)
 
 
 
-https://github.com/smiilliin/possession-research/assets/121614843/8eda9be6-13b9-45f3-87dd-7265257eb0d3
+
+
+https://github.com/smiilliin/possession-research/assets/121614843/a7a72212-aaf9-4046-b09c-9935c356e71a
 
